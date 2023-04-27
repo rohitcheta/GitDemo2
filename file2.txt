@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is third file
+=======
+this is second file
+this is fourth file
+>>>>>>> 1553354d51c795765140511aadd825c4bba71456
